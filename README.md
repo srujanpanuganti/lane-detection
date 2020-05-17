@@ -16,7 +16,7 @@ To execute the project run
 ## See how it works
 
 <p align="center">
-<img src="images/late_detect.gif" alt="lane" width="640">
+<img src="images/late_detect.gif" alt="lane">
 </p>
 <p align="center">
 <em>Lane Departure Warning System</em>
