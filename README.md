@@ -1,7 +1,7 @@
 # Project - Lane Departure Warning System for an Autonomous Vehicle
 
 * This project is an implementation of a Lane Departure Warning System
-* The project is implemented Detects the Lanes on the road using the camera mounted to a vehicle
+* The project Detects the Lanes on the road using the camera mounted to a vehicle
 * The Project also predicts the turn to take along with the angle to turn.
 * The data that is used dor this project is located at `data/project_video.mp4`
 
